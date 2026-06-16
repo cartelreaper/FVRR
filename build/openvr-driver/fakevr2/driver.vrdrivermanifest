@@ -1,0 +1,7 @@
+{
+   "alwaysActivate": false,
+   "name" : "fakevr2",
+   "directory" : "",
+   "resourceOnly" : false,
+   "hmd_presence" : []
+}

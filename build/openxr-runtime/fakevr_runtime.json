@@ -1,0 +1,7 @@
+{
+    "file_format_version": "1.0.0",
+    "runtime": {
+        "name": "FakeVR Runtime",
+        "library_path": "fakevr_runtime.dll"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "file_format_version": "1.0.0",
+    "api_layer": {
+        "name": "XR_APILAYER_fakevr_emulator",
+        "library_path": "fakevr_layer.dll",
+        "api_version": "1.0",
+        "implementation_version": "1",
+        "description": "FakeVR - Mouse/Keyboard OpenXR Emulator",
+        "disable_environment": "FAKEVR_DISABLE",
+        "functions": {
+            "xrNegotiateLoaderApiLayerInterface": "xrNegotiateLoaderApiLayerInterface"
+        },
+        "instance_extensions": [],
+        "device_extensions": []
+    }
+}
