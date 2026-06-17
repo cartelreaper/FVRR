@@ -29,7 +29,7 @@ fakevr/
 │   ├── fakevr_companion.cpp    # GUI: читает мышь/клавиатуру, пишет в shared memory
 │   ├── fakevr_layer.cpp        # OpenXR API Layer (не сработал для Roblox)
 │   └── driver_fakevr2.cpp      # OpenVR Driver (блокируется SteamVR)
-├── include/                    # сторонние заголовки (OpenXR SDK, openvr_driver.h)
+├── include/                    # (OpenXR SDK, openvr_driver.h)
 └── build/                      # уже скомпилированные .dll/.exe + манифесты + установщики
     ├── companion/
     ├── openxr-layer/
